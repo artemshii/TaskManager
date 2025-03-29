@@ -16,7 +16,7 @@ A simple console-based Task Manager built with C#. This project allows users to 
 ### Running the Project
 Clone the repository and navigate into the project folder:
 ```sh
-git clone https://github.com/yourusername/TaskManager.git
+git clone https://github.com/artemshii/TaskManager.git
 cd TaskManager
 dotnet run
 
