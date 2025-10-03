@@ -20,5 +20,3 @@ git clone https://github.com/artemshii/TaskManager.git
 cd TaskManager
 dotnet run
 
-P.S
-My first ever Project on C#, never worked with OOP before
